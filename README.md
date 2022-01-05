@@ -24,10 +24,20 @@
 
 - ⚡ Fun fact **I Speak 5 languages ✅**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_rahulparmar_23002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rahulparmar_23002" height="30" width="40" /></a>
-</p>
+
+## ❤ Connect
+
+<a href="https://www.linkedin.com/in//">
+  <img align="left" alt="Vimal's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+</a>
+
+<a href="mailto:rahulparmar7654321@gmail.com">
+  <img align="left" alt="Vimal's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
+</a>
+
+<a href="https://www.instagram.com/_rahulparmar_23002/">
+  <img align="left" alt="Vimal's Instagram" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
+</a>
 
 
 
