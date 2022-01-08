@@ -1,5 +1,3 @@
-//[![MasterHead](https://i.postimg.cc/k46HgHd2/Rahul-Parmar-logos-white.png)
-
 <h1 align="center">Hi 👋, I'm Rahul Parmar</h1>
 <h3 align="center">Full Stack Developer | Blockchain Enthuthiast | India</h3>
 
