@@ -1,4 +1,33 @@
-[![MasterHead](https://i.postimg.cc/FzzxDdDw/codeimg-instagram-photo-thumbnail.jpg)]
+
+
+<h1 align="center">Hi 👋, I'm Rahul Parmar</h1>
+<h3 align="center">Full Stack Developer | Blockchain Enthuthiast | India</h3>
+
+![https://i.postimg.cc/Pr61BtdN/Rahul-Parmar-logos-black.png]
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-6611&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-6611" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-6611" alt="rahul-6611" /></a> </p>
+
+- 🔭 I’m currently working on [Decentralized Finance Application]((coming soon))
+
+- 🌱 I’m currently learning **Polygon Development**
+
+- 👯 I’m looking to collaborate on **Defi based projects**
+
+- 🤝 I’m looking for help with **frontend development for Dapps**
+
+- 👨‍💻 All of my projects are available at [https://github.com/RAHUL-6611](https://github.com/RAHUL-6611)
+
+- 📝 I regularly write articles on [https://tartp.com/](https://tartp.com/)
+
+- 💬 Ask me about **REACT | NEXT.JS | NODE.JS | SOLIDITY |**
+
+- 📫 How to reach me **Rahulparmar7654321@gmail.com**
+
+- ⚡ Fun fact **I Speak 5 languages ✅**
+
+
 
 
 ## ❤ Connect
