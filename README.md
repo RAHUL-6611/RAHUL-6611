@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Parmar</h1>
 <h3 align="center">Full Stack Developer | Blockchain Enthuthiast | India</h3>
 
-![https://i.postimg.cc/Pr61BtdN/Rahul-Parmar-logos-black.png]
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-6611&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-6611" /> </p>
 
